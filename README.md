@@ -4,4 +4,4 @@ Introdcution to the project : In the modern times, Science has made a lot of adv
 
 Details about the project : The project has been made using GDevelop 5, using JavaScript and Gdevelop’s Event based - Visual Scripting. All the work included in the project belongs to/has been made by Rupinder Deep Singh using several softwares like Piskel (for making all the art-files) and MS Paint to edit some of the images, some of the information was taken from internet.
 
-IMPORTANT NOTE : DIRECT PRE-VIEW FROM GDEVELOP 5 WON'T WORK PROPERLY, THE PROJECT MUST BE COMPILED INTO A EXE FILE FIRST ( USING THE PUBLISH PROEJCT OPTION INSIDE GDEVELOP 5 ).
+IMPORTANT NOTE : DIRECT PRE-VIEW FROM GDEVELOP 5 WON'T WORK PROPERLY, THE PROJECT MUST BE COMPILED INTO A EXE FILE FIRST ( USING THE PUBLISH PROEJCT OPTION INSIDE GDEVELOP 5 ), I DID NOT UPLOAD THE COMPILED PROJECT CAUSE COMPILING THE PROJECT TURNS IT SIZE INTO '84 MB'
